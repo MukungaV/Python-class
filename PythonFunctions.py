@@ -79,6 +79,32 @@ def loopList(theList):
 loopList(shoppingList)
 
 
+def add (a,b):
+    print("Adding {a}+{b}")
+    return a + b
+
+def subtract (a,b):
+    print("Subtracting {a}-{b}")
+    return  a - b
+
+def multiply (a,b):
+    print("Multiplying {a}*{b}")
+    return a * b
+
+def divide (a,b):
+    print("Dividing {a}*{b}")
+    return a * b
+
+print("Let's do some math with just functions!")
+
+age=add(30,5)
+height=subtract(120,40)
+weight=multiply(45,3)
+iq=divide(400,2)
+
+
+
+
 
 
 
