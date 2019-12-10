@@ -32,6 +32,7 @@ greetings_2("John ", "Kenya ", "Male")
 
 
 #Default parameters
+print("Default parameters")
 def greeting_3(name="Developer"):
     print("hello world " + name)
 
